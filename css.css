@@ -1,0 +1,93 @@
+header{
+  width: 100%;
+  height: 200px;
+  text-align: center;
+  color: purple;
+  background-color: #FFFF00;
+}
+
+body {
+  padding-left: 11em;
+  font-family: Georgia, "Times New Roman",
+        Times, serif;
+  color: purple;
+ }
+table, th, td{
+  padding: 15px;
+  text-align: center;
+  border: 2px solid black;
+  border-spacing: 15px;
+}
+
+.random1{
+  color: purple;
+  background-color: #FFFF00;
+}
+.random2{
+  color: red;
+  background-color: #66FF33;
+}
+.random3{
+  color: orange;
+  background-color: #6633FF;
+}
+.random4{
+  color: yellow;
+  background-color: #FF99FF;
+}
+.random5{
+  color: blue;
+  background-color: #FF6633;
+}
+.random6{
+  color: red;
+  background-color: #99CC99;
+}
+.random7{
+  color: yellow;
+  background-color: #663366;
+}
+.random8{
+  color: orange;
+  background-color: #0033CC;
+}
+.city{
+  color: orange;
+  background-color: #0033CC;
+}
+.cityp{
+  color: blue;
+  background-color: #996633;
+}
+.cityl{
+  color: red;
+  background-color: #33cc99;
+}
+.cityb{
+  color: yellow;
+  background-color: #cc3300;
+}
+.weers{
+  color: black;
+  background-color: #ffffff;
+}
+.weerh{
+  color: black;
+  background-color: #ccffff;
+}
+.weerr{
+  color: black;
+  background-color: #00ffff;
+}
+.weerz{
+  color: black;
+  background-color: #ffff66;
+}
+
+footer{
+  width: auto;
+  height: 150px;
+  text-align: center;
+  color: red;
+  background-color: #66FF33
+}
